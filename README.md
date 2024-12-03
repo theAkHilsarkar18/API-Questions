@@ -26,6 +26,7 @@ Create a RESTful API to manage a product inventory. The `Product` table should h
 
 Implement CRUD operations and ensure that stock updates are properly handled.
 
+
 ---
 
 ## **3. Task Management System API**
