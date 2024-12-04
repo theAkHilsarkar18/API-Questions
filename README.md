@@ -1,4 +1,3 @@
-
 ## **1. User Management System API**
 **Question:**  
 Create a RESTful API for managing users with CRUD operations. The `User` table should have the following fields:  
