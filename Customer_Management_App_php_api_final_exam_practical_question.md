@@ -1,6 +1,4 @@
-Here’s a revised and simplified version of the question without foreign key references:
 
----
 
 ## **Question: Develop a PHP API with CRUD Operations**
 
